@@ -1,0 +1,5 @@
+//perceptron.js 
+
+class Perceptron {
+    
+}
